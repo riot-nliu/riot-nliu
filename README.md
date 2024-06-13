@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @riot-nliu
-- 👀 I’m working on web for Riot Games @riotgames
+- 👀 I’m working on Riot Client for Riot Games @riotgames
